@@ -6,4 +6,4 @@ Software GitHub: [HomePoint](https://github.com/sieren/Homepoint) - Author: Matt
 Hardware Webpage: [AZ-Touch ESP](https://www.hwhardsoft.de/deutsch/projekte/arduitouch-esp/) - Author: Hartmut Wendt (zihatec)  
 
 ## Private Projects
-Control Shelly devices (using AZ-Touch MOD 2.8"](https://github.com/griemide/Hardware/tree/master/Bausatz/AZ-Touch/projects/homepoint)  
+Control Shelly devices using [AZ-Touch MOD 2.8"](https://github.com/griemide/Hardware/tree/master/Bausatz/AZ-Touch/projects/homepoint)  
