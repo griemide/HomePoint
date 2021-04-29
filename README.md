@@ -1,5 +1,5 @@
 # HomePoint
-MQTT controled Touchpad (sell also [private MQTT repository](https://github.com/griemide/mqtt))
+MQTT controled Touchpad (see also [private MQTT repository](https://github.com/griemide/mqtt))
 
 ## Public Notes
 Software GitHub: [HomePoint](https://github.com/sieren/Homepoint) - Author: Matthias Flick (aka Matt Sieren)  
